@@ -30,3 +30,7 @@ body {
   border-radius: 6px;
   color: white;
 }
+
+main {
+  padding: 30px 0;
+}
